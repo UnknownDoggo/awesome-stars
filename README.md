@@ -277,6 +277,7 @@
 
 ## Others 
 
+- [awesome-stars](https://github.com/UnknownDoggo/awesome-stars) - A curated list of my GitHub stars!
 - [dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes
 - [Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
 - [iptables-essentials](https://github.com/trimstray/iptables-essentials) - Iptables Essentials: Common Firewall Rules and Commands.
