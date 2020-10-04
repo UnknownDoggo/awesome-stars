@@ -108,6 +108,7 @@
 
 ## CSS 
 
+- [Red-Dashboard](https://github.com/NeuroAssassin/Red-Dashboard) - An easy-to-use interactive web dashboard to control your Redbot.
 - [github-moonlight](https://github.com/Brettm12345/github-moonlight) - A beatiful dark blue userstyle for GItHub. Made with :heart:
 - [VultrDash](https://github.com/Qoraiche/VultrDash) - Vultr self-hosted dashboard.
 - [personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
@@ -372,6 +373,7 @@
 
 ## Python 
 
+- [docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) - docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
 - [photon](https://github.com/vmware/photon) - Minimal Linux container host
 - [netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [PowerDNS-Admin](https://github.com/ngoduykhanh/PowerDNS-Admin) - A PowerDNS web interface with advanced features
@@ -513,7 +515,7 @@
 
 ## Standard ML 
 
-- [openwrt-repo](https://github.com/stangri/openwrt-repo) - OpenWrt/LEDE Project Packages Repository
+- [repo.openwrt.melmac.net](https://github.com/stangri/repo.openwrt.melmac.net) - OpenWrt/LEDE Project Packages Repository
 
 ## TypeScript 
 
