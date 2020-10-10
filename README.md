@@ -527,7 +527,7 @@
 - [caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
-- [snowpack](https://github.com/pikapkg/snowpack) - A new kind of frontend build tool. Fast, lightweight, unbundled. ✌️
+- [snowpack](https://github.com/pikapkg/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
 - [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals
 - [themes](https://github.com/atomcorp/themes) - Themes for Windows Terminal
 - [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 95% code sharing between them
