@@ -185,6 +185,7 @@
 
 ## JavaScript 
 
+- [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [taisun](https://github.com/Taisun-Docker/taisun) - Application for a Docker enabled device with an emphasis on providing a web based interface for managing a single server.
 - [GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
 - [BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
