@@ -302,7 +302,7 @@
 - [capsulecorp-pentest](https://github.com/R3dy/capsulecorp-pentest) - Vagrant VirtualBox environment for conducting an internal network penetration test
 - [for-win](https://github.com/docker/for-win) - Bug reports for Docker Desktop for Windows
 - [landscape](https://github.com/cncf/landscape) - 🌄The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding or market cap, first and last commits, contributor counts, headquarters location, and recent tweets.
-- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.
+- [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
 - [lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [BetterDiscordTrustedUnofficialPlugins](https://github.com/Mega-Mewthree/BetterDiscordTrustedUnofficialPlugins) - Plugins that come from trusted developers, but are not allowed in the official repos because of various reasons.
 - [awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
