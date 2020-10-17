@@ -78,7 +78,7 @@
 - [Notepads](https://github.com/JasonStein/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [Total-Uninstaller](https://github.com/tsasioglu/Total-Uninstaller) - Windows software uninstaller
 - [roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
-- [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
+- [dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
 - [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful tool for managing networks and troubleshoot network problems!
 
 ## C++ 
@@ -107,7 +107,7 @@
 
 ## CSS 
 
-- [Red-Dashboard](https://github.com/NeuroAssassin/Red-Dashboard) - An easy-to-use interactive web dashboard to control your Redbot.
+- [Red-Dashboard](https://github.com/Cog-Creators/Red-Dashboard) - An easy-to-use interactive web dashboard to control your Redbot.
 - [github-moonlight](https://github.com/Brettm12345/github-moonlight) - A beatiful dark blue userstyle for GItHub. Made with :heart:
 - [VultrDash](https://github.com/Qoraiche/VultrDash) - Vultr self-hosted dashboard.
 - [personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
@@ -528,7 +528,7 @@
 - [caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
-- [snowpack](https://github.com/pikapkg/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
+- [snowpack](https://github.com/snowpackjs/snowpack) - WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
 - [backstage](https://github.com/spotify/backstage) - Backstage is an open platform for building developer portals
 - [themes](https://github.com/atomcorp/themes) - Themes for Windows Terminal
 - [devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 95% code sharing between them
