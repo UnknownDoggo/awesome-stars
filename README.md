@@ -218,7 +218,7 @@
 - [ztncui](https://github.com/key-networks/ztncui) - ZeroTier network controller UI
 - [aperturescience](https://github.com/xBytez/aperturescience) - Portal End Credits in HTML/JS/CSS
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
-- [bottyclient](https://github.com/TudbuT/bottyclient) - A slim Discord client with many cool features including 'see-invisibles' and less network traffic which supports user and bot tokens. Tags: Discord Bot Client Token for Bot Botting Download English
+- [bottyclient](https://github.com/TudbuT/bottyclient) - A slim Discord client with many cool features including less network traffic which supports bot tokens, but user tokens theoretically work too. Tags: Discord Bot Client Token for Bot Botting Download English
 - [sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [tram](https://github.com/mitre-attack/tram) - Threat Report ATT&CK™ Mapping (TRAM) is a tool to aid analyst in mapping finished reports to ATT&CK.
 - [beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
