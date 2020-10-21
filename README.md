@@ -173,6 +173,7 @@
 
 ## Java 
 
+- [keystore-explorer](https://github.com/kaikramer/keystore-explorer) - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
 - [Bastillion](https://github.com/bastillion-io/Bastillion) - Bastillion is a web-based SSH console that centrally manages administrative access to systems. Web-based administration is combined with management and distribution of user's public SSH keys.
 - [wildfly](https://github.com/wildfly/wildfly) - WildFly Application Server
 - [ipscan](https://github.com/angryip/ipscan) - Angry IP Scanner - fast and friendly network scanner
