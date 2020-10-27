@@ -270,6 +270,7 @@
 
 ## Lua 
 
+- [eggs](https://github.com/parkervcp/eggs) - Service eggs for the pterodactyl panel
 - [ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 - [nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [nmap-nse-scripts](https://github.com/cldrn/nmap-nse-scripts) - My collection of nmap NSE scripts
@@ -375,6 +376,7 @@
 
 ## Python 
 
+- [GreenLuma-Reborn-Manager](https://github.com/ImaniiTy/GreenLuma-Reborn-Manager) - An app made in python to manage GreenLuma Reborn AppList
 - [docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) - docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
 - [photon](https://github.com/vmware/photon) - Minimal Linux container host
 - [netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
