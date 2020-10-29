@@ -67,6 +67,7 @@
 
 ## C# # 
 
+- [duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud!
 - [gitextensions](https://github.com/gitextensions/gitextensions) - Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).
 - [IPBan](https://github.com/DigitalRuby/IPBan) - IPBan Monitors failed logins and bad behavior and bans ip addresses on Windows and Linux. Highly configurable, lean and powerful. Learn more at --&gt;
 - [Quasar](https://github.com/quasar/Quasar) - Remote Administration Tool for Windows
