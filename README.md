@@ -121,7 +121,7 @@
 
 - [docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
 - [laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
-- [docker-letsencrypt](https://github.com/linuxserver/docker-letsencrypt) - 
+- [docker-letsencrypt](https://github.com/linuxserver/docker-letsencrypt) - DEPRECATED: Please use linuxserver/swag instead
 - [dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 - [github-action-bash](https://github.com/lafernando/github-action-bash) - GitHub Action to Execute a Bash Script
 
