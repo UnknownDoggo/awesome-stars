@@ -7,6 +7,7 @@
 
   - [Assembly](#assembly)
   - [Batchfile](#batchfile)
+  - [Blade](#blade)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -46,6 +47,10 @@
 ## Batchfile 
 
 - [regtweaks](https://github.com/CHEF-KOCH/regtweaks) - Registry Tweaks for Windows.
+
+## Blade 
+
+- [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 
 ## C 
 
@@ -235,7 +240,6 @@
 - [BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [BetterDiscordApp](https://github.com/rauenzi/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
 - [luna](https://github.com/rvpanoz/luna) - Manage npm dependencies through a modern UI.
