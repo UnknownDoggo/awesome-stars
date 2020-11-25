@@ -235,7 +235,7 @@
 - [linux-dash](https://github.com/afaqurk/linux-dash) - A beautiful web dashboard for Linux
 - [Js-Selfbot](https://github.com/ColdYT/Js-Selfbot) - 
 - [Money-printer-go-BRRR](https://github.com/memetic-institute/Money-printer-go-BRRR) - Print it, baby!
-- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST -&gt;
+- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Boilerplate application for Electron runtime
 - [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
@@ -453,7 +453,7 @@
 
 ## SCSS 
 
-- [mqtt.github.io](https://github.com/mqtt/mqtt.github.io) - website
+- [mqtt.org](https://github.com/mqtt/mqtt.org) - website
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 
