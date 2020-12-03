@@ -236,7 +236,7 @@
 - [linux-dash](https://github.com/afaqurk/linux-dash) - A beautiful web dashboard for Linux
 - [Js-Selfbot](https://github.com/ColdYT/Js-Selfbot) - 
 - [Money-printer-go-BRRR](https://github.com/memetic-institute/Money-printer-go-BRRR) - Print it, baby!
-- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL and REST
+- [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Boilerplate application for Electron runtime
 - [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
