@@ -49,6 +49,7 @@
 
 ## C 
 
+- [VAC-Bypass](https://github.com/danielkrupinski/VAC-Bypass) - Valve Anti-Cheat bypass written in C.
 - [docker-idrac6](https://github.com/DomiStyle/docker-idrac6) - iDRAC 6 web interface and VNC proxy
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [HackBGRT](https://github.com/Metabolix/HackBGRT) - Windows boot logo changer for UEFI systems
@@ -189,6 +190,7 @@
 
 ## JavaScript 
 
+- [discord-ping](https://github.com/MeowTaiga/discord-ping) - 🔔 Get a webhook ping for your code! Want to know exactly when something happens and keep a log of it for free? use discord! Log when someone views your site, makes a purchase, whenever any action takes place! 💕
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [taisun](https://github.com/Taisun-Docker/taisun) - Application for a Docker enabled device with an emphasis on providing a web based interface for managing a single server.
 - [GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
