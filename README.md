@@ -346,6 +346,7 @@
 - [Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP
 - [pfsense](https://github.com/pfsense/pfsense) - Main repository for pfSense
 - [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers/ Secure LAMP-LEMP Deployer/ CIS Benchmark
+- [lamp](https://github.com/teddysun/lamp) - Install LAMP(Linux + Apache + MySQL/MariaDB + PHP ) for CentOS/Debian/Ubuntu
 - [glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 - [snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
 - [PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
@@ -512,7 +513,6 @@
 - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
-- [lamp](https://github.com/teddysun/lamp) - Install LAMP(Linux + Apache + MySQL/MariaDB + PHP ) for CentOS/Debian/Ubuntu
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [OrganizrInstaller](https://github.com/elmerfdz/OrganizrInstaller) - Automated install script for Organizr (https://github.com/causefx/Organizr) for Ubuntu/Debian/Raspbian/CentOS and Windows
