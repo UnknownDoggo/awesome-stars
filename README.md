@@ -163,6 +163,7 @@
 
 - [subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
 - [personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
+- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
 - [netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -236,6 +237,7 @@
 - [insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
 - [electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Boilerplate application for Electron runtime
 - [not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
+- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [BetterDiscordApp](https://github.com/rauenzi/BetterDiscordApp) - Better Discord App enhances Discord desktop app with new features.
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
@@ -455,7 +457,6 @@
 
 - [mqtt.org](https://github.com/mqtt/mqtt.org) - website
 - [NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
-- [minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 
 ## Shell 
 
@@ -566,7 +567,6 @@
 - [gitstalk](https://github.com/thelittlewonder/gitstalk) - Discover who's upto what on Github
 - [the-fucking-github](https://github.com/lvxianchao/the-fucking-github) - A Chrome extension for Github. View starred repositories, organizing stars, searching stars and searching repositories online for Github。
 - [massCode](https://github.com/antonreshetov/massCode) - A free and open source code snippets manager for developers.
-- [nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
 - [homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [Userscript-Plus](https://github.com/jae-jae/Userscript-Plus) - :monkey: Show current site all UserJS，The easier way to install UserJs for Tampermonkey. 显示当前网站的所有可用Tampermonkey脚本
