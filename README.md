@@ -149,7 +149,7 @@
 - [os](https://github.com/rancher/os) - Tiny Linux distro that runs the entire OS as Docker containers
 - [bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
 - [goscan](https://github.com/marco-lancini/goscan) - Interactive Network Scanner
-- [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser which can be used as a middleware or standalone app.
+- [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [integram](https://github.com/requilence/integram) - Integrate Telegram into your workflow – Trello, Gitlab, Bitbucket and other bots
 - [caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
