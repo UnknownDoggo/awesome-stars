@@ -117,7 +117,7 @@
 - [personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
 - [docker-stack-this](https://github.com/pascalandy/docker-stack-this) - A Docker Stack that just work. With Traefik, Socat, Portainer, Nginx, Caddy, Whoami
 - [organizrv2-titanembeds](https://github.com/tamburra/organizrv2-titanembeds) - Embeds Titan chat and forces Org username as Bot guest username w/ Plex Theme
-- [homer](https://github.com/ChaseHall/homer) - A dead simple static homepage
+- [homer](https://github.com/ChxseH/homer) - A dead simple static homepage
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## Dockerfile 
