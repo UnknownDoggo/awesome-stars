@@ -170,6 +170,7 @@
 - [DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
 - [privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [new-tab](https://github.com/jieverson/new-tab) - :coffee: My browser's ~ new tab ~ page
+- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## Haskell 
@@ -266,7 +267,6 @@
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [web-console](https://github.com/nickola/web-console) - Simple web-based shell, remote shell in your browser
 - [autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
-- [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [chrome-webstore](https://github.com/simov/chrome-webstore) - Google Chrome Web Store HTTP Client
