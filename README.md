@@ -416,7 +416,7 @@
 - [awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 - [Discord-Selfbot](https://github.com/appu1232/Discord-Selfbot) - Discord selfbot made with Python using discord.py
 - [script-server](https://github.com/bugy/script-server) - Web UI for your scripts with execution management
-- [pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Client Library and Framework for Python
+- [pyrogram](https://github.com/pyrogram/pyrogram) - Telegram MTProto API Python client library framework for users and bots
 - [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
 - [ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 - [fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
