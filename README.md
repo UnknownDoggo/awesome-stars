@@ -66,6 +66,7 @@
 - [yori](https://github.com/malxau/yori) - Yori is a CMD replacement shell that supports backquotes, job control, and improves tab completion, file matching, aliases, command history, and more.
 - [TheFatRat](https://github.com/Screetsec/TheFatRat) - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .
 - [hss](https://github.com/six-ddc/hss) - An interactive parallel ssh client featuring autocomplete and asynchronous execution.
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 
 ## C# # 
 
@@ -271,7 +272,6 @@
 - [chrome-webstore](https://github.com/simov/chrome-webstore) - Google Chrome Web Store HTTP Client
 - [better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
 - [grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [Extensity](https://github.com/sergiokas/Extensity) - Quickly enable/disable Google Chrome extensions
 - [web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser.
 - [apps](https://github.com/electron/apps) - A collection of apps built on Electron
