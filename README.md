@@ -227,7 +227,7 @@
 - [EnhancedDiscord](https://github.com/joe27g/EnhancedDiscord) - A lightweight Discord client mod.
 - [ztncui](https://github.com/key-networks/ztncui) - ZeroTier network controller UI
 - [aperturescience](https://github.com/xBytez/aperturescience) - Portal End Credits in HTML/JS/CSS
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [bottyclient](https://github.com/TudbuT/bottyclient) - A slim Discord client with many cool features including less network traffic which supports bot tokens, but user tokens theoretically work too. Tags: Discord Bot Client Token for Bot Botting Download English
 - [sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
 - [tram](https://github.com/mitre-attack/tram) - Threat Report ATT&CK™ Mapping (TRAM) is a tool to aid analyst in mapping finished reports to ATT&CK.
@@ -498,7 +498,7 @@
 - [docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
 - [Cloudbox](https://github.com/Cloudbox/Cloudbox) - Ansible-based solution for rapidly deploying a Docker containerized cloud media server.
-- [docker-mailserver](https://github.com/tomav/docker-mailserver) - A fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.
+- [docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - A fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) using Docker.
 - [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) - DockSTARTer helps you get started with home server apps running in Docker.
 - [streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
 - [bin](https://github.com/mitchweaver/bin) - 🗑️ helpful scripts and snippets
