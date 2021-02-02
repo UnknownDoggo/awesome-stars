@@ -546,7 +546,7 @@
 - [n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [action-dogs](https://github.com/stanleynguyen/action-dogs) - 🐶🐕🦮🐕‍🦺🐩🌭  dogs-as-a-github-action
-- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [WebTemplateStudio](https://github.com/microsoft/WebTemplateStudio) - Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices
 - [itch](https://github.com/itchio/itch) - 🎮 The best way to play your itch.io games
 - [WebAssemblyStudio](https://github.com/wasdk/WebAssemblyStudio) - Learn, Teach, Work and Play in the WebAssembly Studio
