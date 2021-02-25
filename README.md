@@ -322,7 +322,7 @@
 - [awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [declutter-home](https://github.com/vizs/declutter-home) - declutter your home directory!
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
-- [daily](https://github.com/dailydotdev/daily) - Discover dev news with zero effort 👩🏽‍💻
+- [daily](https://github.com/dailydotdev/daily) - All-in-one coding news reader 👩🏽‍💻
 - [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
