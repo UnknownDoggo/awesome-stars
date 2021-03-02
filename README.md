@@ -97,7 +97,7 @@
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
 - [cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
-- [one](https://github.com/OpenNebula/one) - The open source Cloud Management Platform developed for the Enterprise :rocket:
+- [one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
 - [BootShellCredentialProvider](https://github.com/NathanCastle/BootShellCredentialProvider) - Windows 10 Credential Provider intended to simplify the process of logging directly into alternative shells to Windows Explorer.
 - [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [kismet](https://github.com/kismetwireless/kismet) - Github mirror of official Kismet repository
@@ -533,7 +533,7 @@
 
 - [Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
-- [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
+- [bit](https://github.com/teambit/bit) - Develop modular web applications with components - fast, together, and at scale.
 - [terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
