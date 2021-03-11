@@ -471,7 +471,7 @@
 - [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. Can run commands, copy files, tunnel ports and connect.
 - [PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to https://PlexGuide.com ~ Rapidly deploy multiple-hasty Docker Containers through Ansible with local or Unlimited Google HD Space!
-- [Synology-Cheat_Sheet](https://github.com/wuseman/Synology-Cheat_Sheet) - Cheatsheet and bash scripts sripts for Synology Nas Stations cheet cheat sheet nas networkdisk
+- [Synology](https://github.com/wuseman/Synology) - Cheatsheet and bash scripts sripts for Synology Nas Stations cheet cheat sheet nas networkdisk
 - [DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [getssl](https://github.com/srvrco/getssl) - obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers.
 - [udm-utilities](https://github.com/boostchicken/udm-utilities) - A collection of things I have made to make the Unifi Dream Machine more useful
@@ -480,7 +480,7 @@
 - [xshok-proxmox](https://github.com/extremeshok/xshok-proxmox) - proxmox post installation scripts
 - [grub2-filemanager](https://github.com/a1ive/grub2-filemanager) - GRUB2-based file manager
 - [fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) - Fallout GRUB theme
-- [docker-compose-letsencrypt-nginx-proxy-companion](https://github.com/evertramos/docker-compose-letsencrypt-nginx-proxy-companion) - Automated docker nginx proxy integrated with letsencrypt.
+- [nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation) - Automated docker nginx proxy integrated with letsencrypt.
 - [LinuxGSM](https://github.com/GameServerManagers/LinuxGSM) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 - [dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [dotfiles](https://github.com/thoughtbot/dotfiles) - A set of vim, zsh, git, and tmux configuration files.
