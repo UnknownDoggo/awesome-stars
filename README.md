@@ -269,7 +269,7 @@
 - [d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [chrome-webstore](https://github.com/simov/chrome-webstore) - Google Chrome Web Store HTTP Client
-- [better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome (Temporarily removed from firefox & without maintain in a period & any cooperative purpose are welcome)
+- [better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :warning: without maintaining in a period & any cooperative purpose are welcome
 - [grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
 - [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [Extensity](https://github.com/sergiokas/Extensity) - Quickly enable/disable Google Chrome extensions
