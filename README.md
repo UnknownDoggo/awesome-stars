@@ -477,7 +477,7 @@
 - [udm-utilities](https://github.com/boostchicken/udm-utilities) - A collection of things I have made to make the Unifi Dream Machine more useful
 - [cattlepi](https://github.com/cattlepi/cattlepi) - effortlessly boot, configure, update and monitor your raspberry pi :cloud:
 - [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-- [xshok-proxmox](https://github.com/extremeshok/xshok-proxmox) - proxmox post installation scripts
+- [xshok-proxmox](https://github.com/extremeshok/xshok-proxmox) - proxmox (pve) post installation optimizing and helper scripts
 - [grub2-filemanager](https://github.com/a1ive/grub2-filemanager) - GRUB2-based file manager
 - [fallout-grub-theme](https://github.com/shvchk/fallout-grub-theme) - Fallout GRUB theme
 - [nginx-proxy-automation](https://github.com/evertramos/nginx-proxy-automation) - Automated docker nginx proxy integrated with letsencrypt.
