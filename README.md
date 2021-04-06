@@ -273,6 +273,7 @@
 - [cnwangjie/better-onetab](https://github.com/cnwangjie/better-onetab) - :bookmark_tabs: A better OneTab for Chrome  :memo: Temporarily removed from firefox :warning: without maintaining in a period & any cooperative purpose are welcome
 - [gruntjs/grunt](https://github.com/gruntjs/grunt) - Grunt: The JavaScript Task Runner
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [sergiokas/Extensity](https://github.com/sergiokas/Extensity) - Quickly enable/disable Google Chrome extensions
 - [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser.
 - [electron/apps](https://github.com/electron/apps) - A collection of apps built on Electron
@@ -356,7 +357,6 @@
 - [Jsitech/JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers/ Secure LAMP-LEMP Deployer/ CIS Benchmark
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
-- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 
 ## PLSQL 
