@@ -390,6 +390,7 @@
 
 ## Python 
 
+- [ddavness/power-mailinabox](https://github.com/ddavness/power-mailinabox) - A Mail-in-a-Box on steroids, essentially. Combines the easiness of use of Mail-in-a-Box with the customizability of other self-hosted mail products.
 - [ImaniiTy/GreenLuma-Reborn-Manager](https://github.com/ImaniiTy/GreenLuma-Reborn-Manager) - An app made in python to manage GreenLuma Reborn AppList
 - [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) - docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
 - [vmware/photon](https://github.com/vmware/photon) - Minimal Linux container host
