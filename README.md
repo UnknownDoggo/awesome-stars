@@ -113,6 +113,7 @@
 - [Brettm12345/github-moonlight](https://github.com/Brettm12345/github-moonlight) - A beatiful dark blue userstyle for GItHub. Made with :heart:
 - [Qoraiche/VultrDash](https://github.com/Qoraiche/VultrDash) - Vultr self-hosted dashboard.
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
+- [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [pascalandy/docker-stack-this](https://github.com/pascalandy/docker-stack-this) - A Docker Stack that just work. With Traefik, Socat, Portainer, Nginx, Caddy, Whoami
 - [tamburra/organizrv2-titanembeds](https://github.com/tamburra/organizrv2-titanembeds) - Embeds Titan chat and forces Org username as Bot guest username w/ Plex Theme
 - [ChxseH/homer](https://github.com/ChxseH/homer) - A dead simple static homepage
@@ -189,6 +190,8 @@
 
 ## JavaScript 
 
+- [LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
+- [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [MeowTaiga/discord-ping](https://github.com/MeowTaiga/discord-ping) - 🔔 Get a webhook ping for your code! Want to know exactly when something happens and keep a log of it for free? use discord! Log when someone views your site, makes a purchase, whenever any action takes place! 💕
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
@@ -399,7 +402,6 @@
 - [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - A simple backup tool for Linux
 - [alichtman/shallow-backup](https://github.com/alichtman/shallow-backup) - Git-integrated backup tool for macOS and Linux devs.
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
-- [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [Hack12R/HardcoreUserbot](https://github.com/Hack12R/HardcoreUserbot) - Best telegram userbot to manage your telegram account ....
 - [RaphielGang/Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane) - The Paperplane userbot project - a Telegram userbot helping to improve your Telegram experience. https://t.me/tgpaperplane
