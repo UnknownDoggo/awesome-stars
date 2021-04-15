@@ -16,6 +16,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Lua](#lua)
   - [Markdown](#markdown)
   - [Nix](#nix)
@@ -44,6 +45,7 @@
 
 ## C 
 
+- [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [White-Tiger/T-Clock](https://github.com/White-Tiger/T-Clock) - Highly configurable Windows taskbar clock
 - [danielkrupinski/VAC-Bypass](https://github.com/danielkrupinski/VAC-Bypass) - Valve Anti-Cheat bypass written in C.
 - [DomiStyle/docker-idrac6](https://github.com/DomiStyle/docker-idrac6) - iDRAC 6 web interface and VNC proxy
@@ -163,7 +165,6 @@
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [posquit0/hugo-awesome-identity](https://github.com/posquit0/hugo-awesome-identity) - 😤 Awesome Identity is a single-page Hugo theme to introduce yourself.
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
@@ -277,6 +278,10 @@
 - [sergiokas/Extensity](https://github.com/sergiokas/Extensity) - Quickly enable/disable Google Chrome extensions
 - [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser.
 - [electron/apps](https://github.com/electron/apps) - A collection of apps built on Electron
+
+## Jinja 
+
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
 
 ## Lua 
 
@@ -407,7 +412,7 @@
 - [RaphielGang/Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane) - The Paperplane userbot project - a Telegram userbot helping to improve your Telegram experience. https://t.me/tgpaperplane
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 - [portablejim/curseDownloader](https://github.com/portablejim/curseDownloader) - Curse Modpack downloader
-- [Alucard-Selfbot/Alucard-Selfbot-src](https://github.com/Alucard-Selfbot/Alucard-Selfbot-src) - Alucard selfbot source code, since we made a good amount of money out of it, we decided to give you the chance to do the same.
+- [AlucardSB/Alucard-Selfbot-src](https://github.com/AlucardSB/Alucard-Selfbot-src) - Alucard selfbot source code, since we made a good amount of money out of it, we decided to give you the chance to do the same.
 - [andrewhilts/snifflab](https://github.com/andrewhilts/snifflab) - Scripts to create your own MITM'ing, packet sniffing WiFi access point
 - [DanMcInerney/net-creds](https://github.com/DanMcInerney/net-creds) - Sniffs sensitive data from interface or pcap
 - [dropbox/nsot](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database
