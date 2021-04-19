@@ -375,7 +375,7 @@
 
 ## Perl 
 
-- [lamw/vghetto-scripts](https://github.com/lamw/vghetto-scripts) - Various virtuallyGhetto scripts for VMware based solutions
+- [lamw/vmware-scripts](https://github.com/lamw/vmware-scripts) - Various scripts for VMware based solutions
 - [mrash/fwknop](https://github.com/mrash/fwknop) - Single Packet Authorization &gt; Port Knocking
 - [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) - PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence can be used to effectively secure networks small to very large heterogeneous networks.
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
