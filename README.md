@@ -169,7 +169,6 @@
 - [Tikam02/DevOps-Guide](https://github.com/Tikam02/DevOps-Guide) - DevOps Guide from basic to advanced with Interview Questions and Notes 🔥
 - [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
 - [jieverson/new-tab](https://github.com/jieverson/new-tab) - :coffee: My browser's ~ new tab ~ page
-- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## Haskell 
@@ -269,6 +268,7 @@
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 - [nickola/web-console](https://github.com/nickola/web-console) - Simple web-based shell, remote shell in your browser
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [simov/chrome-webstore](https://github.com/simov/chrome-webstore) - Google Chrome Web Store HTTP Client
@@ -338,7 +338,6 @@
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [moul/awesome-ssh](https://github.com/moul/awesome-ssh) - :computer: A curated list of SSH resources.
 - [sirredbeard/Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [phanan/htaccess](https://github.com/phanan/htaccess) - ✂A collection of useful .htaccess snippets.
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [toolswatch/blackhat-arsenal-tools](https://github.com/toolswatch/blackhat-arsenal-tools) - Official Black Hat Arsenal Security Tools Repository
@@ -527,6 +526,7 @@
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [teddysun/lamp](https://github.com/teddysun/lamp) - Install LAMP(Linux + Apache + MySQL/MariaDB + PHP ) for CentOS/Debian/Ubuntu
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [awesome-lists/awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [elmerfdz/OrganizrInstaller](https://github.com/elmerfdz/OrganizrInstaller) - Automated install script for Organizr (https://github.com/causefx/Organizr) for Ubuntu/Debian/Raspbian/CentOS and Windows
