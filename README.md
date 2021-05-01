@@ -318,7 +318,7 @@
 - [UnknownDoggo/Github-Links-Hoarding](https://github.com/UnknownDoggo/Github-Links-Hoarding) - Collection of links to repositories that have/had made me at least briefly interested.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [Security-Onion-Solutions/security-onion](https://github.com/Security-Onion-Solutions/security-onion) - Security Onion 16.04 - Linux distro for threat hunting, enterprise security monitoring, and log management
-- [Sab0tag3d/MITM-cheatsheet](https://github.com/Sab0tag3d/MITM-cheatsheet) - All MITM attacks in one place.
+- [frostbits-security/MITM-cheatsheet](https://github.com/frostbits-security/MITM-cheatsheet) - All MITM attacks in one place.
 - [alphaSeclab/awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
 - [R3dy/capsulecorp-pentest](https://github.com/R3dy/capsulecorp-pentest) - Vagrant VirtualBox environment for conducting an internal network penetration test
 - [docker/for-win](https://github.com/docker/for-win) - Bug reports for Docker Desktop for Windows
