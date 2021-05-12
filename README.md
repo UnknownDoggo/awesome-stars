@@ -200,7 +200,6 @@
 - [liftoff/GateOne](https://github.com/liftoff/GateOne) - Gate One is an HTML5-powered terminal emulator and SSH client
 - [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [krestaino/my-dash](https://github.com/krestaino/my-dash) - 🔢 A developer friendly dashboard for monitoring your self-hosted services with a clean and modern UI.
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [openwrt/luci](https://github.com/openwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [MehediH/winstall](https://github.com/MehediH/winstall) - An intuitive interface for browsing and installing Windows Package Manager apps.
@@ -482,6 +481,7 @@
 - [vaniacer/sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. Can run commands, copy files, tunnel ports and connect.
 - [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to https://PlexGuide.com ~ Rapidly deploy multiple-hasty Docker Containers through Ansible with local or Unlimited Google HD Space!
+- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [wuseman/Synology](https://github.com/wuseman/Synology) - Cheatsheet and bash scripts sripts for Synology Nas Stations cheet cheat sheet nas networkdisk
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [srvrco/getssl](https://github.com/srvrco/getssl) - obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers.
