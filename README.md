@@ -191,6 +191,8 @@
 
 ## JavaScript 
 
+- [k-grube/labtech-script-explorer](https://github.com/k-grube/labtech-script-explorer) - 
+- [mspgeek/labtech-script-decode](https://github.com/mspgeek/labtech-script-decode) - A set of utilities to decode and encode LT Script XML files to and from JSON.
 - [LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) - The all-in-one Red Team extension for Web Pentester 🛠
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
