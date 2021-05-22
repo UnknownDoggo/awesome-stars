@@ -383,6 +383,8 @@
 
 ## PowerShell 
 
+- [futurecomputerscairns/ITGlueActiveDirectory](https://github.com/futurecomputerscairns/ITGlueActiveDirectory) - Automated Documentation on AD with ITGlue and Powershell.
+- [gavsto/ITGlue-Helper](https://github.com/gavsto/ITGlue-Helper) - Helper scripts for interacting with ITGlue
 - [christaylorcodes/ConnectWiseManageAPI](https://github.com/christaylorcodes/ConnectWiseManageAPI) - PowerShell wrapper for the ConnectWise Manage REST API
 - [vmware/PowerCLI-Example-Scripts](https://github.com/vmware/PowerCLI-Example-Scripts) - 
 - [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
