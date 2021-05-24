@@ -550,7 +550,7 @@
 
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser Extension to full-text search your browsing history & bookmarks.
 - [sedwards2009/extraterm](https://github.com/sedwards2009/extraterm) - The swiss army chainsaw of terminal emulators
-- [teambit/bit](https://github.com/teambit/bit) - Build modular projects with components in harmony.
+- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible tool for component-driven development.
 - [Eugeny/terminus](https://github.com/Eugeny/terminus) - A terminal for a more modern age
 - [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
