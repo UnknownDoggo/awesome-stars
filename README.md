@@ -416,7 +416,7 @@
 - [RaphielGang/Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane) - The Paperplane userbot project - a Telegram userbot helping to improve your Telegram experience. https://t.me/tgpaperplane
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 - [portablejim/curseDownloader](https://github.com/portablejim/curseDownloader) - Curse Modpack downloader
-- [AlucardSB/Alucard-Selfbot-src](https://github.com/AlucardSB/Alucard-Selfbot-src) - Alucard selfbot source code, since we made a good amount of money out of it, we decided to give you the chance to do the same.
+- [Alucard-Selfbot/Alucard-Selfbot-src](https://github.com/Alucard-Selfbot/Alucard-Selfbot-src) - Alucard selfbot source code, since we made a good amount of money out of it, we decided to give you the chance to do the same.
 - [andrewhilts/snifflab](https://github.com/andrewhilts/snifflab) - Scripts to create your own MITM'ing, packet sniffing WiFi access point
 - [DanMcInerney/net-creds](https://github.com/DanMcInerney/net-creds) - Sniffs sensitive data from interface or pcap
 - [dropbox/nsot](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database
