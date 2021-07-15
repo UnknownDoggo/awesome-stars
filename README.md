@@ -134,6 +134,7 @@
 
 ## Go 
 
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) - ☁️ Cloud Torrent: a self-hosted remote torrent client
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [weaveworks/scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes
@@ -308,6 +309,7 @@
 
 ## Others 
 
+- [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [UnknownDoggo/awesome-stars](https://github.com/UnknownDoggo/awesome-stars) - A curated list of my GitHub stars!
 - [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes
 - [rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
@@ -389,6 +391,7 @@
 
 ## PowerShell 
 
+- [vanvfields/Microsoft-365](https://github.com/vanvfields/Microsoft-365) - Scripts to help configure Microsoft 365
 - [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell
 - [KelvinTegelaar/PSdrawIO](https://github.com/KelvinTegelaar/PSdrawIO) - 
 - [futurecomputerscairns/ITGlueActiveDirectory](https://github.com/futurecomputerscairns/ITGlueActiveDirectory) - Automated Documentation on AD with ITGlue and Powershell.
