@@ -116,7 +116,7 @@
 - [Cog-Creators/Red-Dashboard](https://github.com/Cog-Creators/Red-Dashboard) - An easy-to-use interactive web dashboard to control your Redbot.
 - [Brettm12345/github-moonlight](https://github.com/Brettm12345/github-moonlight) - A beatiful dark blue userstyle for GItHub. Made with :heart:
 - [Qoraiche/VultrDash](https://github.com/Qoraiche/VultrDash) - Vultr self-hosted dashboard.
-- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [pascalandy/docker-stack-this](https://github.com/pascalandy/docker-stack-this) - A Docker Stack that just work. With Traefik, Socat, Portainer, Nginx, Caddy, Whoami
 - [tamburra/organizrv2-titanembeds](https://github.com/tamburra/organizrv2-titanembeds) - Embeds Titan chat and forces Org username as Bot guest username w/ Plex Theme
