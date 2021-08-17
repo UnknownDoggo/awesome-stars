@@ -399,7 +399,7 @@
 - [christaylorcodes/ConnectWiseManageAPI](https://github.com/christaylorcodes/ConnectWiseManageAPI) - PowerShell wrapper for the ConnectWise Manage REST API
 - [vmware/PowerCLI-Example-Scripts](https://github.com/vmware/PowerCLI-Example-Scripts) - 
 - [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
-- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: A powerful PowerShell module for fine-tuning and tweaking Windows 10 & Windows 11
+- [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for Windows 10 & Windows 11 fine-tuning and tweaking
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [mikemaccana/powershell-profile](https://github.com/mikemaccana/powershell-profile) - Mike's Powershell Profile (and how to set up Windows console if you've been using *nix for 20 years)
