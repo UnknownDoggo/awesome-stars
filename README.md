@@ -126,6 +126,7 @@
 
 ## Dockerfile 
 
+- [JonasBonno/docker-discordbot](https://github.com/JonasBonno/docker-discordbot) - Discord bot made by Twentysix
 - [linuxserver/docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
 - [linuxserver/docker-letsencrypt](https://github.com/linuxserver/docker-letsencrypt) - DEPRECATED: Please use linuxserver/swag instead
@@ -291,7 +292,7 @@
 
 ## Jinja 
 
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Network bootable operating system installer based on iPXE
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 
 ## Lua 
 
