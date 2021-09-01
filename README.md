@@ -249,7 +249,7 @@
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [ColdYT/Js-Selfbot](https://github.com/ColdYT/Js-Selfbot) - 
 - [memetic-institute/Money-printer-go-BRRR](https://github.com/memetic-institute/Money-printer-go-BRRR) - Print it, baby!
-- [Kong/insomnia](https://github.com/Kong/insomnia) - The Open Source API Client and Design Platform for GraphQL, REST and gRPC
+- [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, and gRPC.
 - [szwacz/electron-boilerplate](https://github.com/szwacz/electron-boilerplate) - Boilerplate application for Electron runtime
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
@@ -412,6 +412,7 @@
 
 ## Python 
 
+- [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [wh1te909/tacticalrmm](https://github.com/wh1te909/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 - [ddavness/power-mailinabox](https://github.com/ddavness/power-mailinabox) - A Mail-in-a-Box on steroids, essentially. Combines the easiness of use of Mail-in-a-Box with the customizability of other self-hosted mail products.
 - [ImaniiTy/GreenLuma-Reborn-Manager](https://github.com/ImaniiTy/GreenLuma-Reborn-Manager) - An app made in python to manage GreenLuma Reborn AppList
