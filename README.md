@@ -395,6 +395,8 @@
 
 ## PowerShell 
 
+- [bwya77/PSHTML-AD-Report](https://github.com/bwya77/PSHTML-AD-Report) - Create a high level interactive HTML report for you Active Directory environment using PowerShell
+- [EvotecIT/PSWinDocumentation.AD](https://github.com/EvotecIT/PSWinDocumentation.AD) - PowerShell module delivering a lot of Active Directory Forest/Domain information
 - [vanvfields/Microsoft-365](https://github.com/vanvfields/Microsoft-365) - Scripts to help configure Microsoft 365
 - [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell
 - [KelvinTegelaar/PSdrawIO](https://github.com/KelvinTegelaar/PSdrawIO) - 
