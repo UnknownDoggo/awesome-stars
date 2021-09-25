@@ -477,7 +477,7 @@
 - [Hackplayers/evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
-- [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails 6.
+- [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 
 ## Rust 
 
