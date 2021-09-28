@@ -45,6 +45,7 @@
 
 ## C 
 
+- [processhacker/processhacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 - [bartobri/no-more-secrets](https://github.com/bartobri/no-more-secrets) - A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.
 - [White-Tiger/T-Clock](https://github.com/White-Tiger/T-Clock) - Highly configurable Windows taskbar clock
 - [danielkrupinski/VAC-Bypass](https://github.com/danielkrupinski/VAC-Bypass) - Valve Anti-Cheat bypass written in C.
@@ -395,6 +396,7 @@
 
 ## PowerShell 
 
+- [admindroid-community/powershell-scripts](https://github.com/admindroid-community/powershell-scripts) - Office 365 Reporting PowerShell Scripts
 - [bwya77/PSHTML-AD-Report](https://github.com/bwya77/PSHTML-AD-Report) - Create a high level interactive HTML report for you Active Directory environment using PowerShell
 - [EvotecIT/PSWinDocumentation.AD](https://github.com/EvotecIT/PSWinDocumentation.AD) - PowerShell module delivering a lot of Active Directory Forest/Domain information
 - [vanvfields/Microsoft-365](https://github.com/vanvfields/Microsoft-365) - Scripts to help configure Microsoft 365
