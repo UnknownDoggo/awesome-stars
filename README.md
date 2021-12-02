@@ -501,7 +501,7 @@
 
 ## SCSS 
 
-- [mqtt/mqtt.org](https://github.com/mqtt/mqtt.org) - website
+- [mqtt/mqtt.org](https://github.com/mqtt/mqtt.org) - The mqtt.org website
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 
 ## Shell 
