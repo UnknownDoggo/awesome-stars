@@ -41,6 +41,7 @@
 
 ## Batchfile 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
 - [CHEF-KOCH/regtweaks](https://github.com/CHEF-KOCH/regtweaks) - Registry Tweaks for Windows.
 
 ## C 
@@ -370,6 +371,7 @@
 
 ## PHP 
 
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
 - [serghey-rodin/vesta](https://github.com/serghey-rodin/vesta) - VESTA Control Panel
 - [phpipam/phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
