@@ -432,6 +432,7 @@
 
 ## Python 
 
+- [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [wh1te909/tacticalrmm](https://github.com/wh1te909/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
