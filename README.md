@@ -530,7 +530,7 @@
 - [wuseman/Synology](https://github.com/wuseman/Synology) - Cheatsheet and bash scripts sripts for Synology Nas Stations cheet cheat sheet nas networkdisk
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [srvrco/getssl](https://github.com/srvrco/getssl) - obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers.
-- [boostchicken/udm-utilities](https://github.com/boostchicken/udm-utilities) - A collection of things I have made to make the Unifi Dream Machine more useful
+- [boostchicken-dev/udm-utilities](https://github.com/boostchicken-dev/udm-utilities) - A collection of things I have made to make the Unifi Dream Machine more useful
 - [cattlepi/cattlepi](https://github.com/cattlepi/cattlepi) - effortlessly boot, configure, update and monitor your raspberry pi :cloud:
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [extremeshok/xshok-proxmox](https://github.com/extremeshok/xshok-proxmox) - proxmox (pve) post installation optimizing and helper scripts
@@ -602,7 +602,7 @@
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [atomcorp/themes](https://github.com/atomcorp/themes) - Themes for Windows Terminal
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
-- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient
+- [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
