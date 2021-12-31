@@ -324,6 +324,7 @@
 
 ## Others 
 
+- [Qballjos/portainer_templates](https://github.com/Qballjos/portainer_templates) - Template file for new portainer setup
 - [coodesker/coodesker-desktop](https://github.com/coodesker/coodesker-desktop) - Desktop orgainze tool
 - [derpenstiltskin/connectwise-powerbi](https://github.com/derpenstiltskin/connectwise-powerbi) - Power BI function and samples for connecting and querying the ConnectWise Manage and Automate REST APIs.
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
