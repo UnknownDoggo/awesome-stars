@@ -115,7 +115,7 @@
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform GUI Library - Report issues here: https://trac.wxwidgets.org/
+- [wxWidgets/wxWidgets](https://github.com/wxWidgets/wxWidgets) - Cross-Platform C++ GUI Library
 - [bettergram/bettergram](https://github.com/bettergram/bettergram) - The Official Bettergram Development Repository
 
 ## CSS 
@@ -126,7 +126,7 @@
 - [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [pascalandy/docker-stack-this](https://github.com/pascalandy/docker-stack-this) - A Docker Stack that just work. With Traefik, Socat, Portainer, Nginx, Caddy, Whoami
 - [tamburra/organizrv2-titanembeds](https://github.com/tamburra/organizrv2-titanembeds) - Embeds Titan chat and forces Org username as Bot guest username w/ Plex Theme
-- [ChxseH/homer](https://github.com/ChxseH/homer) - A dead simple static homepage
+- [chxseh/homer](https://github.com/chxseh/homer) - A dead simple static homepage
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## Dockerfile 
