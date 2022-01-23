@@ -266,7 +266,7 @@
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [rauenzi/BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
-- [Reactive-Resume/app](https://github.com/Reactive-Resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
 - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
@@ -436,7 +436,7 @@
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [wh1te909/tacticalrmm](https://github.com/wh1te909/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
-- [ddavness/power-mailinabox](https://github.com/ddavness/power-mailinabox) - A Mail-in-a-Box on steroids, essentially. Combines the easiness of use of Mail-in-a-Box with the customizability of other self-hosted mail products.
+- [ddavness/power-mailinabox](https://github.com/ddavness/power-mailinabox) - A Mail-in-a-Box with extra capabilities and more customizability. Not just for power users!
 - [ImaniiTy/GreenLuma-Reborn-Manager](https://github.com/ImaniiTy/GreenLuma-Reborn-Manager) - An app made in python to manage GreenLuma Reborn AppList
 - [gdraheim/docker-systemctl-replacement](https://github.com/gdraheim/docker-systemctl-replacement) - docker systemctl replacement - allows to deploy to systemd-controlled containers without starting an actual systemd daemon (e.g.  centos7, ubuntu16)
 - [vmware/photon](https://github.com/vmware/photon) - Minimal Linux container host
