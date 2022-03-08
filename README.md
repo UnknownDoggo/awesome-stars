@@ -71,6 +71,7 @@
 
 ## C# # 
 
+- [nkasco/IT-Admin-Toolkit-WinUI](https://github.com/nkasco/IT-Admin-Toolkit-WinUI) - A CUSTOMIZABLE AND EXPANDABLE DESTINATION FOR CENTRALIZING DAY-TO-DAY JOB FUNCTIONS
 - [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - EasyJob - keep and execute your PowerShell and BAT scripts from one interface
 - [deadlydog/PathLengthChecker](https://github.com/deadlydog/PathLengthChecker) - Path Length Checker is a stand-alone app that returns the paths and length of all files and directories in a given directory.
 - [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
@@ -206,6 +207,7 @@
 
 ## JavaScript 
 
+- [KennethScott/SpecOps](https://github.com/KennethScott/SpecOps) - SpecOps is a web-based, centralized PowerShell script repository where non-technical users can run scripts via a user-friendly GUI.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [polonel/trudesk](https://github.com/polonel/trudesk) - :coffee: :seedling: Trudesk is an open-source help desk/ticketing solution.
