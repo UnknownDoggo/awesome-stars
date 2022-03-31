@@ -71,6 +71,7 @@
 
 ## C# # 
 
+- [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
 - [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - EasyJob - keep and execute your PowerShell and BAT scripts from one interface
 - [deadlydog/PathLengthChecker](https://github.com/deadlydog/PathLengthChecker) - Path Length Checker is a stand-alone app that returns the paths and length of all files and directories in a given directory.
@@ -153,7 +154,7 @@
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap Kubernetes with k3s over SSH &lt; 1 min 🚀
-- [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
+- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard.
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
