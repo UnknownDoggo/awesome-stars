@@ -441,7 +441,7 @@
 
 - [canonical/cloud-init](https://github.com/canonical/cloud-init) - Official upstream for the cloud-init: cloud instance initialization
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [Cog-Creators/Red-SmileyBot](https://github.com/Cog-Creators/Red-SmileyBot) - 😃 A multi-function Discord bot 😃
+- [Cog-Creators/Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) - A multi-function Discord bot
 - [amidaware/tacticalrmm](https://github.com/amidaware/tacticalrmm) - A remote monitoring & management tool, built with Django, Vue and Go.
 - [ddavness/power-mailinabox](https://github.com/ddavness/power-mailinabox) - A Mail-in-a-Box with extra capabilities and more customizability. Not just for power users!
 - [ImaniiTy/GreenLuma-Reborn-Manager](https://github.com/ImaniiTy/GreenLuma-Reborn-Manager) - An app made in python to manage GreenLuma Reborn AppList
