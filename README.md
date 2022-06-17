@@ -212,6 +212,7 @@
 
 ## JavaScript 
 
+- [agentejo/cockpit](https://github.com/agentejo/cockpit) - Add content management functionality to any site - plug & play / headless / api-first CMS
 - [jareer12/DiscordBotPanel](https://github.com/jareer12/DiscordBotPanel) - 🎉 Manage your discord bots and node.js scripts with a web panel.
 - [remoteinterview/zero](https://github.com/remoteinterview/zero) - Zero is a web server to simplify web development.
 - [ruudmens/LazyAdmin](https://github.com/ruudmens/LazyAdmin) - SysAdmin scripts for you to use.
