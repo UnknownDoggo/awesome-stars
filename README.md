@@ -181,7 +181,6 @@
 
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - This is a full computer management web site. With MeshCentral, you can run your own web server and it to remotely manage and control computers on a local network or anywhere on the internet. Once you 
 - [jadjoubran/webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
-- [ThatOneCalculator/DiscordRPCMaker](https://github.com/ThatOneCalculator/DiscordRPCMaker) - The best way to make and manage custom Discord Rich Presences with buttons!
 - [vitalets/github-trending-repos](https://github.com/vitalets/github-trending-repos) - Track GitHub trending repositories in your favorite programming language by native GitHub notifications!
 - [subspacecloud/subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI
 - [github/personal-website](https://github.com/github/personal-website) - Code that'll help you kickstart a personal website that showcases your work as a software developer.
@@ -552,7 +551,7 @@
 - [wuseman/Synology](https://github.com/wuseman/Synology) - Cheatsheet and bash scripts sripts for Synology Nas Stations cheet cheat sheet nas networkdisk
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi) - Lightweight justice for your single-board computer!
 - [srvrco/getssl](https://github.com/srvrco/getssl) - obtain free SSL certificates from letsencrypt ACME server  Suitable for automating the process on remote servers.
-- [boostchicken-dev/udm-utilities](https://github.com/boostchicken-dev/udm-utilities) - A collection of things I have made to make the Unifi Dream Machine more useful
+- [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
 - [cattlepi/cattlepi](https://github.com/cattlepi/cattlepi) - effortlessly boot, configure, update and monitor your raspberry pi :cloud:
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [extremeshok/xshok-proxmox](https://github.com/extremeshok/xshok-proxmox) - proxmox (pve) post installation optimizing and helper scripts
