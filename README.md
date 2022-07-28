@@ -41,7 +41,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, fewer antivirus detection and user-friendliness.
 
 ## C 
 
@@ -72,6 +72,7 @@
 
 ## C# # 
 
+- [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows) - Like those other ds4tools, but sexier
 - [maximmax42/Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP) - Custom Discord Rich Presence Manager for Windows, features run on startup and minimizing to tray.
 - [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
@@ -424,6 +425,7 @@
 
 ## PowerShell 
 
+- [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) - AADInternals PowerShell module for administering Azure AD and Office 365
 - [nyxgeek/o365recon](https://github.com/nyxgeek/o365recon) - retrieve information via O365 and AzureAD with a valid cred
 - [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
 - [SwiftOnSecurity/OrgKit](https://github.com/SwiftOnSecurity/OrgKit) - Provision a brand-new company with proper defaults in Windows, Offic365, and Azure
@@ -452,6 +454,7 @@
 
 ## Python 
 
+- [morRubin/AzureADJoinedMachinePTC](https://github.com/morRubin/AzureADJoinedMachinePTC) - Tool to perform lateral movement between AAD joined devices
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [pritunl/pritunl](https://github.com/pritunl/pritunl) - Enterprise VPN server
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
