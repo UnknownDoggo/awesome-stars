@@ -217,6 +217,7 @@
 
 ## JavaScript 
 
+- [dabeng/OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
 - [chadray/Docker-Node-AAD](https://github.com/chadray/Docker-Node-AAD) - Quick demo on using NodeJS and Azure AD Passport Auth to authenticate to Azure AD
 - [adamhancock/cwteams](https://github.com/adamhancock/cwteams) - Azure Function App to post Connectwise ticket updates into Microsoft Teams
 - [agentejo/cockpit](https://github.com/agentejo/cockpit) - Add content management functionality to any site - plug & play / headless / api-first CMS
@@ -428,6 +429,7 @@
 
 ## PowerShell 
 
+- [EvotecIT/O365Essentials](https://github.com/EvotecIT/O365Essentials) - A module that helps to manage some tasks on Office 365/Azure via undocumented API
 - [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) - AADInternals PowerShell module for administering Azure AD and Office 365
 - [nyxgeek/o365recon](https://github.com/nyxgeek/o365recon) - retrieve information via O365 and AzureAD with a valid cred
 - [microsoft/Microsoft365DSC](https://github.com/microsoft/Microsoft365DSC) - Manages, configures, extracts and monitors Microsoft 365 tenant configurations
