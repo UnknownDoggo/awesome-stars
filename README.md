@@ -429,6 +429,7 @@
 
 ## PowerShell 
 
+- [BrainVirus/ConnectWiseManage-TeamsAlerts](https://github.com/BrainVirus/ConnectWiseManage-TeamsAlerts) - PS Script to audit Connectwise Manage tickets/time entries for errors and report them in Teams
 - [EvotecIT/O365Essentials](https://github.com/EvotecIT/O365Essentials) - A module that helps to manage some tasks on Office 365/Azure via undocumented API
 - [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) - AADInternals PowerShell module for administering Azure AD and Office 365
 - [nyxgeek/o365recon](https://github.com/nyxgeek/o365recon) - retrieve information via O365 and AzureAD with a valid cred
