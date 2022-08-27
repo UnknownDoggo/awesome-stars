@@ -159,7 +159,7 @@
 - [ColetteContreras/v2ray-poseidon](https://github.com/ColetteContreras/v2ray-poseidon) - An Enhanced V2Ray(based on v2ray-core) for VNetPanel, SSRPanel, V2board and SSPanel-v3-Uim to sync users from database to v2ray, to log traffics/system info
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap Kubernetes with k3s over SSH &lt; 1 min 🚀
+- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [mum4k/termdash](https://github.com/mum4k/termdash) - Terminal based dashboard.
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
