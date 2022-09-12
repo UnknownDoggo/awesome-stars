@@ -217,6 +217,7 @@
 
 ## JavaScript 
 
+- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [dabeng/OrgChart](https://github.com/dabeng/OrgChart) - It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.
 - [chadray/Docker-Node-AAD](https://github.com/chadray/Docker-Node-AAD) - Quick demo on using NodeJS and Azure AD Passport Auth to authenticate to Azure AD
@@ -431,6 +432,7 @@
 
 ## PowerShell 
 
+- [AzureAD/AzureADAssessment](https://github.com/AzureAD/AzureADAssessment) - Tooling for assessing an Azure AD tenant state and configuration
 - [BrainVirus/ConnectWiseManage-TeamsAlerts](https://github.com/BrainVirus/ConnectWiseManage-TeamsAlerts) - PS Script to audit Connectwise Manage tickets/time entries for errors and report them in Teams
 - [EvotecIT/O365Essentials](https://github.com/EvotecIT/O365Essentials) - A module that helps to manage some tasks on Office 365/Azure via undocumented API
 - [Gerenios/AADInternals](https://github.com/Gerenios/AADInternals) - AADInternals PowerShell module for administering Azure AD and Office 365
@@ -624,6 +626,7 @@
 
 ## TypeScript 
 
+- [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
 - [microsoftgraph/microsoft-graph-toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Authentication Providers and UI components for Microsoft Graph 🦒
 - [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
