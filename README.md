@@ -127,7 +127,7 @@
 
 ## CSS 
 
-- [Screenly/screenly-ose](https://github.com/Screenly/screenly-ose) - The most popular digital signage project on Github!
+- [Screenly/screenly-ose](https://github.com/Screenly/screenly-ose) - The most popular digital signage project on GitHub!
 - [Cog-Creators/Red-Dashboard](https://github.com/Cog-Creators/Red-Dashboard) - An easy-to-use interactive web dashboard to control your Redbot.
 - [Brettm12345/github-moonlight](https://github.com/Brettm12345/github-moonlight) - A beatiful dark blue userstyle for GItHub. Made with :heart:
 - [Qoraiche/VultrDash](https://github.com/Qoraiche/VultrDash) - Vultr self-hosted dashboard.
@@ -643,7 +643,7 @@
 - [cloudgraphdev/cli](https://github.com/cloudgraphdev/cli) - The universal GraphQL API and CSPM tool for AWS, Azure, GCP, K8s, and tencent.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
-- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Manage Podman and other container engines from a single UI and tray
+- [containers/podman-desktop](https://github.com/containers/podman-desktop) - Podman Desktop - a GUI dedicated for containers and kubernetes for application developers
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [covenanttechnologysolutions/connectwise-rest](https://github.com/covenanttechnologysolutions/connectwise-rest) - A nodejs module for interacting with the ConnectWise REST API
 - [simPod/GrafanaJsonDatasource](https://github.com/simPod/GrafanaJsonDatasource) - Grafana datasource to load JSON data over your arbitrary HTTP backend
