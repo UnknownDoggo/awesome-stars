@@ -491,7 +491,6 @@
 - [rcaloras/bashhub-client](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [Hack12R/HardcoreUserbot](https://github.com/Hack12R/HardcoreUserbot) - Best telegram userbot to manage your telegram account ....
 - [RaphielGang/Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane) - The Paperplane userbot project - a Telegram userbot helping to improve your Telegram experience. https://t.me/tgpaperplane
 - [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 - [portablejim/curseDownloader](https://github.com/portablejim/curseDownloader) - Curse Modpack downloader
