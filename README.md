@@ -632,6 +632,7 @@
 
 ## TypeScript 
 
+- [VolkovLabs/volkovlabs-calendar-panel](https://github.com/VolkovLabs/volkovlabs-calendar-panel) - A Calendar Panel for @grafana.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [shenglol/arm-visualizer](https://github.com/shenglol/arm-visualizer) - ARMVIZ 2.0
