@@ -473,6 +473,7 @@
 
 ## Python 
 
+- [chiefonboarding/ChiefOnboarding](https://github.com/chiefonboarding/ChiefOnboarding) - Free and open-source employee onboarding platform. Onboard new hires through Slack or the web portal.
 - [schenkd/nginx-ui](https://github.com/schenkd/nginx-ui) - Nginx UI allows you to access and modify the nginx configurations files without cli.
 - [StackStorm/st2](https://github.com/StackStorm/st2) - StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 160 i
 - [morRubin/AzureADJoinedMachinePTC](https://github.com/morRubin/AzureADJoinedMachinePTC) - Tool to perform lateral movement between AAD joined devices
