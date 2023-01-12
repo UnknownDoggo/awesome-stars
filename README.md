@@ -149,6 +149,7 @@
 
 ## Go 
 
+- [IzakMarais/reporter](https://github.com/IzakMarais/reporter) - Service that generates a PDF report from a Grafana dashboard
 - [hashicorp/terraform-provider-azuread](https://github.com/hashicorp/terraform-provider-azuread) - Terraform provider for Azure Active Directory
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
 - [ponzu-cms/ponzu](https://github.com/ponzu-cms/ponzu) - Headless CMS with automatic JSON API. Featuring auto-HTTPS from Let's Encrypt, HTTP/2 Server Push, and flexible server framework written in Go.
