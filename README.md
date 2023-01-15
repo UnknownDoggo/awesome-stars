@@ -359,7 +359,7 @@
 - [madjin/awesome-vrchat](https://github.com/madjin/awesome-vrchat) - One-stop shop for people interested in developing content for VRchat
 - [Qballjos/portainer_templates](https://github.com/Qballjos/portainer_templates) - Template file for new portainer setup
 - [coodesker/coodesker-desktop](https://github.com/coodesker/coodesker-desktop) - Desktop orgainze tool
-- [derpenstiltskin/connectwise-powerbi](https://github.com/derpenstiltskin/connectwise-powerbi) - Power BI queries for performing requests against ConnectWise Manage and Automate REST APIs.
+- [derpenstiltskin/connectwise-powerbi](https://github.com/derpenstiltskin/connectwise-powerbi) - Power BI queries for performing requests against ConnectWise ecosystem REST APIs.
 - [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [UnknownDoggo/awesome-stars](https://github.com/UnknownDoggo/awesome-stars) - A curated list of my GitHub stars!
 - [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes
