@@ -242,7 +242,7 @@
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [KelvinTegelaar/CIPP](https://github.com/KelvinTegelaar/CIPP) - CIPP is a M365 multitenant management solution
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
-- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - (YouTube-Extension) Enrich Your Experience & Content [🧰80+LeanFeatures][📌Longest-standing©️10+years][👨‍👩‍👧‍👧Please make Docu/HowTo's][⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot[Hide "related video 
+- [code-for-charity/ImprovedTube-for-YouTube](https://github.com/code-for-charity/ImprovedTube-for-YouTube) - (YouTube-Extension) enrich your experience & content [🧰80+LeanFeatures][📌Longest-standing©️10+years][👨‍👩‍👧‍👧Please make Docu/HowTo's][⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪⋮}(Player Repeat Screenshot[Hide "related video 
 - [k-grube/labtech-script-explorer](https://github.com/k-grube/labtech-script-explorer) - 
 - [mspgeek/labtech-script-decode](https://github.com/mspgeek/labtech-script-decode) - A set of utilities to decode and encode LT Script XML files to and from JSON.
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
@@ -642,7 +642,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [shenglol/arm-visualizer](https://github.com/shenglol/arm-visualizer) - ARMVIZ 2.0
-- [meienberger/runtipi](https://github.com/meienberger/runtipi) - ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+- [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [microsoftgraph/microsoft-graph-toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Authentication Providers and UI components for Microsoft Graph 🦒
 - [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
