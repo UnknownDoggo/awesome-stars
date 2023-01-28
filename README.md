@@ -352,6 +352,7 @@
 
 ## Others 
 
+- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [soxoj/osint-namecheckers-list](https://github.com/soxoj/osint-namecheckers-list) - A list of tools to search accounts by username
 - [mpowelltech/connectwise-manage-dashboards](https://github.com/mpowelltech/connectwise-manage-dashboards) - A collection of Grafana dashboards and their SQL queries we have used to create a live operations dashboard for our ConnectWise Manage instance
 - [BALKANGraph/OrgChartJS](https://github.com/BALKANGraph/OrgChartJS) - OrgChart JS is a simple, flexible and highly customizable organization chart plugin for presenting the structure of your organization and the relationships in an elegant way.
