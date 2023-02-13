@@ -78,7 +78,7 @@
 - [microsoft/PartnerCenter-GDAPTransition](https://github.com/microsoft/PartnerCenter-GDAPTransition) - A tool kit for Microsoft Partners to Transition to GDAP relationships with Customers
 - [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows) - Like those other ds4tools, but sexier
 - [maximmax42/Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP) - Simple custom Rich Presence manager (Playing status) for Discord. Windows 7+ only. Features run on startup and minimizing to tray. Translated to multiple languages.
-- [stnkl/EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
 - [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - :hammer: EasyJob - keep and execute your PowerShell and BAT scripts from one interface
 - [deadlydog/PathLengthChecker](https://github.com/deadlydog/PathLengthChecker) - Path Length Checker is a stand-alone app that returns the paths and length of all files and directories in a given directory.
