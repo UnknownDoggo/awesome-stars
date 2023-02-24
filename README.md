@@ -388,7 +388,7 @@
 - [Sab0tag3d/MITM-cheatsheet](https://github.com/Sab0tag3d/MITM-cheatsheet) - All MITM attacks in one place.
 - [alphaSeclab/awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
 - [docker/for-win](https://github.com/docker/for-win) - Bug reports for Docker Desktop for Windows
-- [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
+- [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - articles
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [Mega-Mewthree/BetterDiscordTrustedUnofficialPlugins](https://github.com/Mega-Mewthree/BetterDiscordTrustedUnofficialPlugins) - Plugins that come from trusted developers, but are not allowed in the official repos because of various reasons.
 - [styfle/awesome-online-ide](https://github.com/styfle/awesome-online-ide) - 🌩️ A list of awesome online development environments
