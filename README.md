@@ -78,7 +78,7 @@
 - [Codeusa/Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming) - Play your favorite games in a borderless window; no more time consuming alt-tabs.
 - [microsoft/PartnerCenter-GDAPTransition](https://github.com/microsoft/PartnerCenter-GDAPTransition) - A tool kit for Microsoft Partners to Transition to GDAP relationships with Customers
 - [Ryochan7/DS4Windows](https://github.com/Ryochan7/DS4Windows) - Like those other ds4tools, but sexier
-- [maximmax42/Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP) - Simple custom Rich Presence manager (Playing status) for Discord. Windows 7+ only. Features run on startup and minimizing to tray. Translated to multiple languages.
+- [maximmax42/Discord-CustomRP](https://github.com/maximmax42/Discord-CustomRP) - Simple custom Rich Presence manager (Playing status) for Discord. Only supports Windows 7 and above. Features running on startup and minimizing to tray. Translated to multiple languages.
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [miroslavpejic85/p2p](https://github.com/miroslavpejic85/p2p) - 🖥️ P2P Remote Desktop - Portable, No Configuration or Installation Needed.
 - [akshinmustafayev/EasyJob](https://github.com/akshinmustafayev/EasyJob) - :hammer: EasyJob - keep and execute your PowerShell and BAT scripts from one interface
@@ -508,7 +508,7 @@
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [RaphielGang/Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane) - The Paperplane userbot project - a Telegram userbot helping to improve your Telegram experience. https://t.me/tgpaperplane
-- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+- [evilsocket/opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux interactive application firewall inspired by LittleSnitch.
 - [portablejim/curseDownloader](https://github.com/portablejim/curseDownloader) - Curse Modpack downloader
 - [Alucard-Selfbot/Alucard-Selfbot-src](https://github.com/Alucard-Selfbot/Alucard-Selfbot-src) - Alucard selfbot source code, since we made a good amount of money out of it, we decided to give you the chance to do the same.
 - [andrewhilts/snifflab](https://github.com/andrewhilts/snifflab) - Scripts to create your own MITM'ing, packet sniffing WiFi access point
