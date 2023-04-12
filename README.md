@@ -302,7 +302,7 @@
 - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
 - [rvpanoz/luna](https://github.com/rvpanoz/luna) - Manage npm dependencies through a modern UI.
 - [liberodark/ODrive](https://github.com/liberodark/ODrive) - Google Drive GUI for Windows / Mac / Linux
-- [decaporg/gatsby-starter-netlify-cms](https://github.com/decaporg/gatsby-starter-netlify-cms) - Example gatsby + netlify cms project
+- [decaporg/gatsby-starter-decap-cms](https://github.com/decaporg/gatsby-starter-decap-cms) - Example Gatsby + Decap CMS project
 - [hrbrmstr/pewpew](https://github.com/hrbrmstr/pewpew) - :star: :star: :star: Build your own IP Attack Maps with SOUND!
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [arscan/hexasphere.js](https://github.com/arscan/hexasphere.js) - 🌐Generate a sphere covered (mostly) in hexagons.
