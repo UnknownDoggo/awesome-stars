@@ -449,6 +449,7 @@
 
 ## PowerShell 
 
+- [Braingears/PowerShell](https://github.com/Braingears/PowerShell) - PowerShell & Automate Scripts
 - [sohgnar/Intune-Scripts](https://github.com/sohgnar/Intune-Scripts) - 
 - [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
 - [AzureAD/AzureADAssessment](https://github.com/AzureAD/AzureADAssessment) - Tooling for assessing an Azure AD tenant state and configuration
