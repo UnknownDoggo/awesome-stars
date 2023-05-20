@@ -299,7 +299,7 @@
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [rauenzi/BetterDiscordAddons](https://github.com/rauenzi/BetterDiscordAddons) - A series of plugins and themes for BetterDiscord.
 - [BetterDiscord/BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Better Discord enhances Discord desktop app with new features.
-- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - grocy is a web-based self-hosted groceries & household management solution for your home
+- [grocy/grocy](https://github.com/grocy/grocy) - ERP beyond your fridge - Grocy is a web-based self-hosted groceries & household management solution for your home
 - [ZeroX-DG/SnippetStore](https://github.com/ZeroX-DG/SnippetStore) - :tada: A snippet management app for developers :rocket:
 - [rvpanoz/luna](https://github.com/rvpanoz/luna) - Manage npm dependencies through a modern UI.
 - [liberodark/ODrive](https://github.com/liberodark/ODrive) - Google Drive GUI for Windows / Mac / Linux
