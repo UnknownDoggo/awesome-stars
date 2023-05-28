@@ -656,7 +656,7 @@
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps
 - [ebkr/r2modmanPlus](https://github.com/ebkr/r2modmanPlus) - A simple and easy to use mod manager for several games using Thunderstore
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-- [VolkovLabs/volkovlabs-calendar-panel](https://github.com/VolkovLabs/volkovlabs-calendar-panel) - A Calendar Panel for @grafana.
+- [VolkovLabs/volkovlabs-calendar-panel](https://github.com/VolkovLabs/volkovlabs-calendar-panel) - Calendar Panel for @grafana.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [shenglol/arm-visualizer](https://github.com/shenglol/arm-visualizer) - ARMVIZ 2.0
 - [meienberger/runtipi](https://github.com/meienberger/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
