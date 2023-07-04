@@ -324,7 +324,7 @@
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The fastest frontend for the headless web. Build modern websites with React.
-- [nickola/web-console](https://github.com/nickola/web-console) - Simple web-based shell, remote shell in your browser
+- [nickola/web-console](https://github.com/nickola/web-console) - :desktop_computer: Simple web-based shell in your browser (outdated)
 - [postcss/autoprefixer](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use
 - [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 - [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) - An elegant dashboard
