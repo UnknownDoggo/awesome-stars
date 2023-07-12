@@ -195,7 +195,7 @@
 
 ## HTML 
 
-- [zuffdaddy/phasmohelper](https://github.com/zuffdaddy/phasmohelper) - A web app for helping track ghost evidence in the game Phasmophobia
+- [frazierzak/phasmohelper](https://github.com/frazierzak/phasmohelper) - A web app for helping track ghost evidence in the game Phasmophobia
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 - [jadjoubran/webdash](https://github.com/jadjoubran/webdash) - 🔥 Orchestrate your web project with Webdash the customizable web dashboard
