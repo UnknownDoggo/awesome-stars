@@ -20,7 +20,6 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Lua](#lua)
-- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nix](#nix)
 - [Others](#others)
@@ -353,10 +352,6 @@
 - [ntop/ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring
 - [cldrn/nmap-nse-scripts](https://github.com/cldrn/nmap-nse-scripts) - My collection of nmap NSE scripts
 
-## Makefile 
-
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
 ## Markdown 
 
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -393,6 +388,7 @@
 - [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
 - [UnknownDoggo/Github-Links-Hoarding](https://github.com/UnknownDoggo/Github-Links-Hoarding) - Collection of links to repositories that have/had made me at least briefly interested.
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Security-Onion-Solutions/security-onion](https://github.com/Security-Onion-Solutions/security-onion) - Security Onion 16.04 - Linux distro for threat hunting, enterprise security monitoring, and log management
 - [frostbits-security/MITM-cheatsheet](https://github.com/frostbits-security/MITM-cheatsheet) - All MITM attacks in one place.
 - [alphaSeclab/awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
