@@ -454,6 +454,7 @@
 
 ## PowerShell 
 
+- [12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros) - Office 365 for IT Pros PowerShell examples
 - [MSEndpointMgr/Intune](https://github.com/MSEndpointMgr/Intune) - Microsoft Intune scripts
 - [Braingears/PowerShell](https://github.com/Braingears/PowerShell) - PowerShell & Automate Scripts
 - [sohgnar/Intune-Scripts](https://github.com/sohgnar/Intune-Scripts) - 
