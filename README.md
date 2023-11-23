@@ -280,7 +280,7 @@
 - [OpenNebula/one](https://github.com/OpenNebula/one) - The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀
 - [egodigital/vscode-powertools](https://github.com/egodigital/vscode-powertools) - A swiss army knife with lots of tools, extensions and (scriptable) enhancements for Visual Studio Code.
 - [ebaauw/homebridge-hue](https://github.com/ebaauw/homebridge-hue) - Homebridge plugin for Hue and/or deCONZ
-- [maxogden/cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
+- [max-mapper/cool-ascii-faces](https://github.com/max-mapper/cool-ascii-faces) - ᕙ༼ຈل͜ຈ༽ᕗ
 - [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [Naramsim/naramsim.github.io](https://github.com/Naramsim/naramsim.github.io) - Personal showcase
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
