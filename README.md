@@ -449,6 +449,7 @@
 
 ## PowerShell 
 
+- [gscales/Powershell-Scripts](https://github.com/gscales/Powershell-Scripts) - 
 - [KelvinTegelaar/AutomaticDocumentation](https://github.com/KelvinTegelaar/AutomaticDocumentation) - A repo dedicated to the Automatic Documentation blogs on CyberDrain.com
 - [12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros) - Office 365 for IT Pros PowerShell examples
 - [MSEndpointMgr/Intune](https://github.com/MSEndpointMgr/Intune) - Microsoft Intune scripts
