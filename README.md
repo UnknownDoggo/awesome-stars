@@ -255,7 +255,7 @@
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [KelvinTegelaar/CIPP](https://github.com/KelvinTegelaar/CIPP) - CIPP is a M365 multitenant management solution
 - [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~3 YouTube & Video Extension]🧰90 clever features📌set & forget📌Longest-standing (Please help🧩👨‍👩‍👧‍👧) "Enrich your experience & -choice!"  -  ..⋮  {playback|content discovery|player|extra buttons|d
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~3 YouTube & Video Extension] Enrich your experience & -choice! 🧰90 clever features📌set & forget📌Longest-standing (Please help🧩us👨‍👩‍👧‍👧) ..⋮  {playback|content discovery|player|extra buttons|dist
 - [k-grube/labtech-script-explorer](https://github.com/k-grube/labtech-script-explorer) - 
 - [mspgeek/labtech-script-decode](https://github.com/mspgeek/labtech-script-decode) - A set of utilities to decode and encode LT Script XML files to and from JSON.
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
@@ -657,7 +657,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [shenglol/arm-visualizer](https://github.com/shenglol/arm-visualizer) - ARMVIZ 2.0
-- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [microsoftgraph/microsoft-graph-toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Authentication Providers and UI components for Microsoft Graph 🦒
 - [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
