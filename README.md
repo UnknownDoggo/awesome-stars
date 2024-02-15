@@ -413,7 +413,7 @@
 
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 - [librenms/librenms](https://github.com/librenms/librenms) - Community-based GPL-licensed network monitoring system
-- [serghey-rodin/vesta](https://github.com/serghey-rodin/vesta) - VESTA Control Panel
+- [outroll/vesta](https://github.com/outroll/vesta) - VESTA Control Panel
 - [phpipam/phpipam](https://github.com/phpipam/phpipam) - phpipam development repository
 - [dokuwiki/dokuwiki](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine
 - [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault) - openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is pri
