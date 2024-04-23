@@ -368,6 +368,7 @@
 - [UnknownDoggo/awesome-stars](https://github.com/UnknownDoggo/awesome-stars) - A curated list of my GitHub stars!
 - [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes
 - [rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
+- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [trimstray/iptables-essentials](https://github.com/trimstray/iptables-essentials) - Iptables Essentials: Common Firewall Rules and Commands.
 - [geerlingguy/awx-container](https://github.com/geerlingguy/awx-container) - Ansible Container project that manages the lifecycle of AWX on Docker.
 - [technomada/cloud-from-scratch](https://github.com/technomada/cloud-from-scratch) - Build yourself a private self-hosted full-stack personal cloud system.
@@ -478,7 +479,6 @@
 - [christaylorcodes/ConnectWiseManageAPI](https://github.com/christaylorcodes/ConnectWiseManageAPI) - PowerShell wrapper for the ConnectWise Manage REST API
 - [vmware/PowerCLI-Example-Scripts](https://github.com/vmware/PowerCLI-Example-Scripts) - 
 - [Disassembler0/Win10-Initial-Setup-Script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019
-- [lando/lando](https://github.com/lando/lando) - A development tool for all your projects that is fast, easy, powerful and liberating
 - [farag2/Sophia-Script-for-Windows](https://github.com/farag2/Sophia-Script-for-Windows) - :zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
