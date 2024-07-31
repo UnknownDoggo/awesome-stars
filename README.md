@@ -466,7 +466,7 @@
 ## PowerShell 
 
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from windows, disable telemetry, remove Bing from windows search as well as perform various other changes to declutter and improve 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve 
 - [gscales/Powershell-Scripts](https://github.com/gscales/Powershell-Scripts) - 
 - [KelvinTegelaar/AutomaticDocumentation](https://github.com/KelvinTegelaar/AutomaticDocumentation) - A repo dedicated to the Automatic Documentation blogs on CyberDrain.com
 - [12Knocksinna/Office365itpros](https://github.com/12Knocksinna/Office365itpros) - Office 365 for IT Pros PowerShell examples
@@ -671,7 +671,7 @@
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted Heroku / Netlify / Vercel alternative for Kubernetes
 - [ebkr/r2modmanPlus](https://github.com/ebkr/r2modmanPlus) - A simple and easy to use mod manager for several games using Thunderstore
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-- [VolkovLabs/volkovlabs-calendar-panel](https://github.com/VolkovLabs/volkovlabs-calendar-panel) - Business Calendar Panel for @grafana
+- [VolkovLabs/volkovlabs-calendar-panel](https://github.com/VolkovLabs/volkovlabs-calendar-panel) - Business Calendar panel for @grafana
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [shenglol/arm-visualizer](https://github.com/shenglol/arm-visualizer) - ARMVIZ 2.0
