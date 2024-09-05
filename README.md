@@ -410,7 +410,6 @@
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [dsasmblr/game-hacking](https://github.com/dsasmblr/game-hacking) - Tutorials, tools, and more as related to reverse engineering video games.
 - [bradfitz/homelab](https://github.com/bradfitz/homelab) - Brad's homelab setup
-- [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [9viz/declutter-home](https://github.com/9viz/declutter-home) - declutter your home directory!
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
