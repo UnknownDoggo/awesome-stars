@@ -247,6 +247,7 @@
 
 ## JavaScript 
 
+- [El3ctr1cR/SupportTools-extension](https://github.com/El3ctr1cR/SupportTools-extension) - Make life easier in Autotask
 - [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - Easily manage the brightness of your monitors in Windows from the system tray
 - [SanjaySunil/BetterDiscordPanel](https://github.com/SanjaySunil/BetterDiscordPanel) - 💬 Discord Messaging Panel that allows you to message inside of a bot!
 - [SocketDev/wormhole-crypto](https://github.com/SocketDev/wormhole-crypto) - Streaming encryption for Wormhole.app, based on Encrypted Content-Encoding for HTTP (RFC 8188)
