@@ -674,7 +674,7 @@
 - [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS for Kubernetes
 - [ebkr/r2modmanPlus](https://github.com/ebkr/r2modmanPlus) - A simple and easy to use mod manager for several games using Thunderstore
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
-- [VolkovLabs/business-calendar](https://github.com/VolkovLabs/business-calendar) - Display events and set time range for @grafana
+- [VolkovLabs/business-calendar](https://github.com/VolkovLabs/business-calendar) - The Business Calendar panel is a Grafana plugin that displays events in a stylish calendar format.
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [sst/sst](https://github.com/sst/sst) - SST v2
 - [shenglol/arm-visualizer](https://github.com/shenglol/arm-visualizer) - ARMVIZ 2.0
