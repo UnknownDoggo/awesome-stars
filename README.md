@@ -378,7 +378,6 @@
 - [madjin/awesome-vrchat](https://github.com/madjin/awesome-vrchat) - One-stop shop for people interested in developing content for VRchat
 - [Qballjos/portainer_templates](https://github.com/Qballjos/portainer_templates) - Template file for new portainer setup
 - [derpenstiltskin/connectwise-powerbi](https://github.com/derpenstiltskin/connectwise-powerbi) - Power BI queries for performing requests against ConnectWise ecosystem REST APIs.
-- [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [UnknownDoggo/awesome-stars](https://github.com/UnknownDoggo/awesome-stars) - A curated list of my GitHub stars!
 - [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes
 - [rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) - Run your own privacy-first ad blocking service in the cloud for free on Google Cloud Services.
@@ -487,6 +486,7 @@
 - [bwya77/PSHTML-AD-Report](https://github.com/bwya77/PSHTML-AD-Report) - Create a high level interactive HTML report for you Active Directory environment using PowerShell
 - [EvotecIT/PSWinDocumentation.AD](https://github.com/EvotecIT/PSWinDocumentation.AD) - PowerShell module delivering a lot of Active Directory Forest/Domain information
 - [vanvfields/Microsoft-365](https://github.com/vanvfields/Microsoft-365) - Scripts to help configure Microsoft 365
+- [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 - [jayharris/dotfiles-windows](https://github.com/jayharris/dotfiles-windows) - dotfiles for Windows, including Developer-minded system defaults. Built in PowerShell
 - [KelvinTegelaar/PSdrawIO](https://github.com/KelvinTegelaar/PSdrawIO) - 
 - [futurecomputerscairns/ITGlueActiveDirectory](https://github.com/futurecomputerscairns/ITGlueActiveDirectory) - Automated Documentation on AD with ITGlue and Powershell.
