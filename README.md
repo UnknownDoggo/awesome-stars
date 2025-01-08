@@ -669,7 +669,7 @@
 ## TypeScript 
 
 - [DestinyItemManager/DIM](https://github.com/DestinyItemManager/DIM) - Destiny Item Manager
-- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
+- [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 - [ebkr/r2modmanPlus](https://github.com/ebkr/r2modmanPlus) - A simple and easy to use mod manager for several games using Thunderstore
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [VolkovLabs/business-calendar](https://github.com/VolkovLabs/business-calendar) - The Business Calendar panel is a Grafana plugin that displays events in a stylish calendar format.
